@@ -1,0 +1,7 @@
+# Dependabot version updates for the npm package.
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
